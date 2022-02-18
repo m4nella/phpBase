@@ -26,8 +26,8 @@ if(isset($_POST['sub'])){
     </head>
     <body>
 
-    <h1> Login </h1> 
-    
+    <h1> Login -Manella </h1> 
+
         <form method="POST" enctype="multipart/form-data">
             <table>
                 
