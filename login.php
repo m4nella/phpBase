@@ -26,8 +26,7 @@ if(isset($_POST['sub'])){
     </head>
     <body>
 
-    <h1> Login -Manella </h1> 
-
+    <h1> Login - Emanuelle </h1>
         <form method="POST" enctype="multipart/form-data">
             <table>
                 
@@ -47,6 +46,9 @@ if(isset($_POST['sub'])){
                     <td>
                         <input type="submit" name="sub" value="submit">
                     </td>
+                        <td> 
+                            <a href="reg.php"> Cadastro </a>
+                        </td>
                 </tr>
             </table>
     </body>
