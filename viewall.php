@@ -1,5 +1,7 @@
 <?php
 include 'connect.php';
+include'checkLogin.php';
+
 ?>
 <table border='1'>
     <tr>
@@ -27,3 +29,6 @@ while($f=  mysqli_fetch_assoc($qu)){
     <?php
 }
 ?>
+
+
+
