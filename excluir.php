@@ -4,9 +4,9 @@ session_start();
 
 
 
-unset($_SESSION['nome']);
+unset($_SESSION['nomezin']);
 
-echo "Session nome delete."
+echo "Session nomezin delete."
 
 
 
