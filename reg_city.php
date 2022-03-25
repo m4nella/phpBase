@@ -3,7 +3,7 @@ include 'connect.php';
 include'checkLogin.php';
 if(isset($_POST['sub'])){
     $t=$_POST['text'];
-    $nameCity=$_POST['text']
+    $nameCity=$_POST['text'];
     
     //$i="insert into reg(name,username,password,city,image,gender)value('$t','$u','$p','$c','$img','$g')";
 
