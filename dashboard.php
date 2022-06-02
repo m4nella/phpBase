@@ -24,7 +24,7 @@ $s="select*from reg where id='$_SESSION[id]'";
   <!-- Tempusdominus Bootstrap 4 -->
   <link rel="stylesheet" href="../AdminLTE-3.2.0/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
   <!-- iCheck -->
-  <link rel="stylesheet" href="AdminLTE-3.2.0/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+  <link rel="stylesheet" href="../AdminLTE-3.2.0/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
   <!-- JQVMap -->
   <link rel="stylesheet" href="../AdminLTE-3.2.0/plugins/jqvmap/jqvmap.min.css">
   <!-- Theme style -->
